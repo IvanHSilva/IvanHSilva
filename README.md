@@ -29,7 +29,7 @@ Confira meu cv e entre em contato por aqui:
 ## 📈 Estatísticas do GitHub
 
 ![IvanHS GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanHS&show_icons=true&theme=dark&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanHS&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanHSilva&layout=compact&theme=dark)
 
 ---
 
